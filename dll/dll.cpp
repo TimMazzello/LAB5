@@ -1,5 +1,5 @@
 #include <stdio.h>
- 	
+ 	 
 extern "C"
 {
    	__declspec(dllexport) int factorial(int n) {
